@@ -1,19 +1,17 @@
 # Student Management System 📝
 
-🎓 A command-line Student Management System built with Python and SQLite. 
+ A command-line Student Management System built with Python and SQLite. 
 It allows users to add, view, search, update, and delete student records stored in a local database.
 
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * **Python**
 * **SQLite**
 * **sqlite3**
 * **SQL**
 * **CRUD operations**
-
-
-## 📚 What I Learned
+* 
 
 Through this project, I practiced:
 
