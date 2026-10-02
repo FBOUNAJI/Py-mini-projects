@@ -1,4 +1,4 @@
-# Student Management System 📝
+# Student Management System 
 
  A command-line Student Management System built with Python and SQLite. 
 It allows users to add, view, search, update, and delete student records stored in a local database.
